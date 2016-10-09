@@ -20,11 +20,11 @@ Returns the amount of nodes in the tree
 
 Returns an array of the values of all the nodes in the tree
 
-### sum
+### #sum
 
 Sums the values of all the nodes in the tree
 
-## present
+## #present
 
 Returns true or false depending on whether the given node is present in the tree
 
