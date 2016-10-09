@@ -33,3 +33,5 @@ Returns true or false depending on whether the given node is present in the tree
 Returns the node searched for if present
 
 ## #delete
+
+Deletes the given node if present
