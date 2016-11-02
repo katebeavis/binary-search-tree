@@ -35,3 +35,5 @@ Returns the node searched for if present
 ## #delete
 
 Deletes the given node if present
+
+Don't forget to ``rspec``!
