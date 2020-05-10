@@ -4,35 +4,35 @@ Binary search tree implemented in Ruby
 
 Has the following functionality:
 
-## #add
+## add
 
 Builds the tree by adding nodes
 
-## #min
+## min
 
 Returns the node in the tree with the minimum value
 
-## #count
+## count
 
 Returns the amount of nodes in the tree
 
-## #values
+## values
 
 Returns an array of the values of all the nodes in the tree
 
-## #sum
+## sum
 
 Sums the values of all the nodes in the tree
 
-## #present
+## present
 
 Returns true or false depending on whether the given node is present in the tree
 
-## #search
+## search
 
 Returns the node searched for if present
 
-## #delete
+## delete
 
 Deletes the given node if present
 
