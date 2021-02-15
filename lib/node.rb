@@ -127,4 +127,5 @@ class Node
   t.add(9)
   t.add(6)
 
+  #this is a test
 end
